@@ -1,6 +1,6 @@
 <h1>👨‍💻 Gabriel Armond </h1>
 <p>
-  <a href="https://github.com/guerrx"><img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github"></img></a>
+  <a href="https://github.com/GabrielArmond"><img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github"></img></a>
   <a href="https://www.linkedin.com/in/gabriel-armond-lopes-guerra-265227186/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></img></a> 
   <a href="mailto:gabriel.armond77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail"></img></a>
 </p>
