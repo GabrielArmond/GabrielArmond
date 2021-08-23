@@ -13,6 +13,11 @@
   </li>
   <li>
     <p>
+      I'm interested in the back end of the development world 🔭
+    </p>
+  </li>
+  <li>
+    <p>
       I’m currently learning JavaScript, Node.JS and Automation test 💻
     </p>
   </li>
