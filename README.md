@@ -18,7 +18,7 @@
   </li>
   <li>
     <p>
-      I’m currently learning JavaScript, Node.JS and Automation test 💻
+      I’m currently learning JavaScript, VueJS, Node.JS and Automation test 💻
     </p>
   </li>
   <li>
@@ -26,6 +26,7 @@
       😎 Fun fact: <br/>
       - 🎮 I play online game </br>
       - ⚽ I practice sports
+  </li>
 </ul>
 
 <!---
