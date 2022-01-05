@@ -13,7 +13,7 @@
   </li>
   <li>
     <p>
-      I'm interested in the back end of the development world 🔭
+      I'm interested in the front and back end of the development world 🔭
     </p>
   </li>
   <li>
