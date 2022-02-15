@@ -18,7 +18,7 @@
   </li>
   <li>
     <p>
-      I’m currently learning JavaScript, VueJS, Node.JS and Automation test 💻
+      I’m currently learning JavaScript, VueJS and Node.JS 💻
     </p>
   </li>
   <li>
