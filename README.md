@@ -18,7 +18,7 @@
   </li>
   <li>
     <p>
-      I’m currently learning JavaScript, VueJS, Node.JS and TypeScript 💻
+      I’m currently learning JavaScript, VueJS, ReactJS, Node.JS and TypeScript 💻
     </p>
   </li>
   <li>
