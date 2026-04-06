@@ -1,52 +1,92 @@
-<h1>👨‍💻 Gabriel Armond </h1>
-<p>
-  <a href="https://github.com/GabrielArmond"><img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github"></img></a>
-  <a href="https://www.linkedin.com/in/gabriel-armond-lopes-guerra-265227186/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></img></a> 
-  <a href="mailto:gabriel.armond77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail"></img></a>
+<h1 align="center">👨‍💻 Gabriel Armond</h1>
+
+<p align="center">
+  <a href="https://github.com/GabrielArmond">
+    <img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-armond-lopes-guerra-265227186/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:gabriel.armond77@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
+  </a>
 </p>
-<h3> Hi there 👋 </h3>
-<ul>
-  <li>
-    <p>
-      I’m interested in software development 👀 
-    </p>
-  </li>
-  <li>
-    <p>
-      I'm interested in the front and back end of the development world 🔭
-    </p>
-  </li>
-  <li>
-    <p>
-      I’m currently learning JavaScript, VueJS, ReactJS, Node.JS and TypeScript 💻
-    </p>
-  </li>
-  <li>
-    <p>
-      😎 Fun fact: <br/>
-      - 🎮 I play online game </br>
-      - ⚽ I practice sports
-  </li>
-</ul>
-<br>
 
-<!-- <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielArmond&layout=compact&langs_count=7&theme=dracula"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=GabrielArmond&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    />
-  </a>
-</p> -->
+---
 
-<!---
-guerrx/guerrx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Desenvolvedor Fullstack (Node.js | React.js | Vue.js)
+
+Desenvolvedor Full Stack com foco em **Frontend**, apaixonado por construir aplicações escaláveis, performáticas e com código limpo.
+
+Tenho forte interesse em resolver problemas complexos, trabalhar com boas práticas de engenharia de software e evoluir constantemente em ambientes colaborativos.
+
+---
+
+## 🧠 Stack Técnica
+
+### 🚀 Frontend
+- React.js
+- Vue.js
+- Nuxt.js
+- Next.js
+- TypeScript
+- JavaScript (ES6+)
+- HTML5 & CSS3
+
+### 🔧 Backend
+- Node.js (Express / NestJS)
+- APIs REST
+
+### 🗄️ Banco de Dados
+- PostgreSQL
+- MySQL
+- Prisma / Sequelize
+
+### 🛠️ DevOps & Qualidade
+- Docker
+- CI/CD
+- Testes: Jest, Vitest, Cypress
+- ESLint & Code Review
+
+### 🧩 Arquitetura & Boas Práticas
+- SOLID
+- Clean Architecture
+- Design Patterns
+- Metodologias Ágeis (Scrum / Kanban)
+
+---
+
+## 📈 Foco Atual
+
+- 🧩 Arquitetura de software escalável  
+- ⚡ Performance e otimização de aplicações  
+- 🧪 Testes automatizados  
+- 🐳 Ambientes com Docker e boas práticas DevOps  
+
+---
+
+## 🎯 Diferenciais
+
+- 🔍 Facilidade em **debugging e resolução de problemas**
+- 🤝 Perfil colaborativo e boa comunicação em equipe
+- 📚 Aprendizado contínuo e adaptação rápida a novas tecnologias
+- ⚙️ Foco em qualidade de código e boas práticas
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GabrielArmond&theme=dracula" />
+</p>
+
+---
+
+## 📫 Contato
+
+- 📧 Email: gabriel.armond77@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/gabriel-armond-lopes-guerra-265227186/  
+
+---
+
+💬 *Sempre buscando evoluir como desenvolvedor e gerar impacto através da tecnologia.*
