@@ -85,7 +85,8 @@ Tenho forte interesse em resolver problemas complexos, trabalhar com boas práti
 ## 📫 Contato
 
 - 📧 Email: gabriel.armond77@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/gabriel-armond-lopes-guerra-265227186/  
+- 💼 LinkedIn: https://www.linkedin.com/in/gabriel-armond-lopes-guerra-265227186/
+- 💼 Portfólio: <a href="https://gabrielarmonddev.vercel.app/">https://gabrielarmonddev.vercel.app/</a>
 
 ---
 
