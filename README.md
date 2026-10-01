@@ -21,11 +21,7 @@
 
 Desenvolvedor Full Stack com forte especialização em **Frontend** e experiência em React, Vue, TypeScript, Next.js, Node.js e Django.
 
-Atuo em aplicações empresariais e produtos SaaS, da interface ao backend:
-
-- ☀️ Plataforma de **monitoramento de usinas solares** com dashboards de séries temporais, mapas e alertas
-- 🏢 **SaaS multi-tenant** com autenticação, controle de acesso e pagamentos recorrentes (Stripe e Mercado Pago/Pix)
-- 🤖 Integração de **LLMs** em funcionalidades de produto (OpenAI, Anthropic, Groq/Llama)
+Atuo em aplicações empresariais e produtos SaaS, da interface ao backend, com dashboards e visualização de dados, autenticação e controle de acesso, pagamentos recorrentes e integração de IA em funcionalidades de produto.
 
 Tenho experiência com boas práticas de engenharia, arquitetura, testes, observabilidade, CI/CD, sustentação e resolução de problemas complexos em produção, sempre em times ágeis.
 
